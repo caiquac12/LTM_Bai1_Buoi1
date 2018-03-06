@@ -1,0 +1,4 @@
+D:\LTM_Buoi1_Bai1\LTM_Buoi1_Bai1\bin\Debug\LTM_Buoi1_Bai1.exe
+D:\LTM_Buoi1_Bai1\LTM_Buoi1_Bai1\bin\Debug\LTM_Buoi1_Bai1.pdb
+D:\LTM_Buoi1_Bai1\LTM_Buoi1_Bai1\obj\x86\Debug\LTM_Buoi1_Bai1.exe
+D:\LTM_Buoi1_Bai1\LTM_Buoi1_Bai1\obj\x86\Debug\LTM_Buoi1_Bai1.pdb
